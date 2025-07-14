@@ -1,0 +1,49 @@
+body {
+  background-color: #FFF8Bf;
+  color: #3e2c23;
+}
+
+h2 {
+  font-family: 'Impact';
+}
+
+p {
+  font-family: 'Courier New';
+}
+
+.navbar {
+  background-color: #FFF8BF;
+  font-family: 'Courier New';
+  color: #000000
+}
+.navbar-brand, .nav-link {
+  color: rgb(0, 0, 0) !important;
+  font-weight: bold;
+}
+.hero {
+  background-color: #FFD1DC;
+  padding: 60px 20px;
+  text-align: center;
+  font-family: 'Papyrus';
+}
+.hero h1 {
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
+.menu-item {
+  background-color: #f6cada;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  padding: 15px;
+  margin-bottom: 15px;
+  font-size: 25px;
+  font-family: 'Ink Free';
+}
+footer {
+  background-color: #f4dbe6;
+  color: white;
+  padding: 20px 10px;
+  text-align: center;
+  margin-top: 40px;
+}
+
